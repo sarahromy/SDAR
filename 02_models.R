@@ -13,11 +13,6 @@ library(performance)
 library(spdep)
 library(sf)
 
-### Load in data ###
-mergeddata_climate_joinedALL4 <- read_csv("mergeddata_climate_joinedALL4.csv")
-mergeddata_climate_joinedGEN4 <- read_csv("mergeddata_climate_joinedGEN4.csv")
-mergeddata_climate_joinedSPEC4 <- read_csv("mergeddata_climate_joinedSPEC4.csv")
-
 #################################################################################################
 #################################################################################################
                     ##### PIECEWISE STRUCTURAL EQUATION MODELING #####
