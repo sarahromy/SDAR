@@ -1,0 +1,26 @@
+For SCALED_CLEAN_SEMALL.csv, SCALED_CLEAN_SEMGEN.csv, SCALED_CLEAN_SEMSPEC.csv:
+Column
+fips - county code
+pop_density	- human population density
+prop_hosts	- proportion of host trees out of nonhost trees in a county
+treediversity_specrich_total	- total tree species richness in a county
+MEAN_MAT - mean annual temperature
+MEAN_MAP	- mean annual precipitation
+height_difference_NHminH - difference in height between nonhost and host trees
+diameter_difference_NHminH	- difference in diameter between nonhost and host trees
+diameter_cv_t_difference_NHminH	- difference in variance in diameter between nonhost and host trees
+height_cv_t_difference_NHminH	- difference in variance in height between nonhost and host trees
+Total_pests	- total invasive insect pest richness for that county
+lat	- latitude
+US_L3NAME	- FIA level III ecoregion
+broad_group	- forest type
+s_prop_hosts - scale proportion of host trees out of nonhost trees in a county
+s_diameter_cv_diff	- scaled difference in variance in diameter between nonhost and host trees
+s_height_cv_diff - scaled difference in variance in height between nonhost and host trees
+s_height_mean_diff	- scaled difference in height between nonhost and host trees
+s_diameter_mean_diff - scaled difference in diameter between nonhost and host trees
+s_pop_density	- scaled human population density
+s_MEAN_MAP	- scaled mean annual precipitation
+s_MEAN_MAT- scaled mean annual temperature
+s_tree_div	- total tree species richness in a county
+temp_bin - temperature bin
